@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi, I'm Elgun</h1>
 <h3 align="center">Frontend Developer </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elgunsalmanov&label=Profile%20views&color=0e75b6&style=flat" alt="elgunsalmanov" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=elgunsalmanov&label=Profile%20views&color=0e75b6&style=flat" alt="elgunsalmanov" /> </p>
 
 <div> <a href="https://www.linkedin.com/in/elgun salmanov" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/elgunsalmanov" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
