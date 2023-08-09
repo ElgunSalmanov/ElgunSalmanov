@@ -1,4 +1,4 @@
-<img src="https://cdn-images-1.medium.com/v2/resize:fill:1600:480/gravity:fp:0.5:0.4/1*Mycg7xtgCBqY-2FoSlefZw.gif" width="100%"  />
+<img src="https://www.optimalvirtualemployee.com/wp-content/uploads/2023/01/front-end-development.gif" width="100%"  />
 <h1 align="center">Hi, I'm Elgun</h1>
 
 <div align="center"> <a href="https://www.linkedin.com/in/elgun salmanov" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
