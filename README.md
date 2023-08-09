@@ -3,8 +3,6 @@
 <h3 align="center">Frontend Developer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elgunsalmanov&label=Profile%20views&color=0e75b6&style=flat" alt="elgunsalmanov" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elgunsalmanov&theme=" alt="elgunsalmanov" /></a> </p>
-
 <div> <a href="https://www.linkedin.com/in/elgun salmanov" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/elgunsalmanov" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/13elgun13" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
