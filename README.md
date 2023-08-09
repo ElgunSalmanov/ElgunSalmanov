@@ -1,4 +1,4 @@
-<img src="https://insurancequotes.dev/wp-content/uploads/2020/08/app_development.gif" width="80%" />
+<img src="https://insurancequotes.dev/wp-content/uploads/2020/08/app_development.gif" width="100%" />
 <h1 align="center">Hi, I'm Elgun</h1>
 <h3 align="center">Frontend Developer </h3>
 
