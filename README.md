@@ -32,10 +32,10 @@
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elgunsalmanov&layout=compact&theme=midnight-purple" alt=elgunsalmanov />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=elgunsalmanov&show_icons=true&locale=en&theme=chartreuse-dark" alt="elgunsalmanov" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=elgunsalmanov&show_icons=true&locale=en&theme=midnight-purple" alt="elgunsalmanov" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/elgunsalmanov">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elgunsalmanov&theme=chartreuse_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elgunsalmanov&theme=midnight-purple" height="180em" />
 </div>
