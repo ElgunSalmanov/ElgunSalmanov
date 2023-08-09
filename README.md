@@ -1,4 +1,4 @@
-<img src="https://j.gifs.com/0V3wQK@facebook.gif" width="100%" height="20%" />
+<img src="https://j.gifs.com/0V3wQK@facebook.gif" width="50%" height="20%" />
 <h1 align="center">Hi, I'm Elgun</h1>
 <h3 align="center">Frontend Developer </h3>
 
