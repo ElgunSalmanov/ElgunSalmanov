@@ -29,7 +29,7 @@
 
 <h3 align="center">Stars</h3>
 <div align="center" >
-<img margin-bottom: "25px" align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elgunsalmanov&layout=compact&theme=midnight-purple" alt=elgunsalmanov />
+<img margin-bottom="25px" align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elgunsalmanov&layout=compact&theme=midnight-purple" alt=elgunsalmanov />
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=elgunsalmanov&show_icons=true&locale=en&theme=midnight-purple" alt="elgunsalmanov" /></p>
 </div>
 
