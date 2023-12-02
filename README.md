@@ -28,9 +28,10 @@
 </p>
 
 <h3 align="center">Stars</h3>
+<div align="center">
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elgunsalmanov&layout=compact&theme=midnight-purple" alt=elgunsalmanov />
-
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=elgunsalmanov&show_icons=true&locale=en&theme=midnight-purple" alt="elgunsalmanov" /></p>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
